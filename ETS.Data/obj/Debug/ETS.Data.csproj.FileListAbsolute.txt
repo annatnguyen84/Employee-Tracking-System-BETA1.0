@@ -1,0 +1,56 @@
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Term 2\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracing System V2\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V2\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V3\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.pdb
