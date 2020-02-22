@@ -33,7 +33,7 @@ namespace ETS.Logic
             }
             catch
             {
-                result = Status.Successfull;
+                result = Status.Unsuccessfull;
             }
             return result;
         }

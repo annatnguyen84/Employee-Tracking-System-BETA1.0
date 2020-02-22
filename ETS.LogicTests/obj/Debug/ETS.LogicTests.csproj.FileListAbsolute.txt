@@ -37,3 +37,16 @@ C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking Sys
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.csproj.CopyComplete
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.dll
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.LogicTests.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.LogicTests.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.Logic.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.Logic.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.LogicTests\obj\Debug\ETS.LogicTests.pdb

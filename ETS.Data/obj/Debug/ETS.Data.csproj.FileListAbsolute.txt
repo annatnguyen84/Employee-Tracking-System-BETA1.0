@@ -54,3 +54,11 @@ C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking Sys
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.dll
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.Data\obj\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\obj\Debug\ETS.Data.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\obj\Debug\ETS.Data.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\obj\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Data\obj\Debug\ETS.Data.pdb

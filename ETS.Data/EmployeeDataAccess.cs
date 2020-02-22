@@ -230,49 +230,5 @@ namespace ETS.Data
             return EmpList;
         }
 
-        public List<EmpHour> SelectAll()
-        {
-            List<EmpHour> EmpList = new List<EmpHour>();
-            //MAKE SURE SPELLING IS CORRECT within ""
-            //STEP 2: Create, setup and open Connection object
-            conn = new SqlConnection();
-            //Setup
-            conn.ConnectionString = @"Data Source=.;Initial Catalog=ETS_Database_1.0;Integrated Security=True";
-            //open
-            conn.Open();
-            //create
-            //start.Connect();
-            // STEP 3: Create Command Obj
-            SqlCommand cmd = new SqlCommand("sp_AllEmp_Summary", conn);
-            cmd.CommandType = System.Data.CommandType.StoredProcedure;
-
-            // STEP 4: Execure the Cmd
-            SqlDataReader read = cmd.ExecuteReader();
-
-            // STEP 5: Handle Results
-
-            while (read.Read())
-            {
-                Employee emp = new Employee();
-                emp.FName = Convert.ToString(read["FirstName"]);
-                emp.LName = Convert.ToString(read["LastName"]);
-                emp.Email = Convert.ToString(read["Email"]);
-                emp.DOB = Convert.ToDateTime(read["DOB"]);
-                emp.Phone = Convert.ToString(read["Phone"]);
-                int EmpID = Convert.ToInt32(read["EmpID"]);
-                DateTime WorkDate = Convert.ToDateTime(read["WorkDate"]);
-                int Hours = Convert.ToInt32(read["Hours"]);
-                EmpHour AllEmp = new EmpHour(EmpID,  WorkDate, Hours);
-                
-                EmpList.Add(AllEmp);
-            }
-
-            // STEP 6: Close Connection
-            conn.Close();
-            //start.Disconnect();
-            // return the Emp OBJ
-            return EmpList;
-        }
-
     }
 }

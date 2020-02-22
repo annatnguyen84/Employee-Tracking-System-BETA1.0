@@ -14,6 +14,10 @@ namespace ETS.Entity
         public int HoursWorked { get; set; }
 
         // Null Cons
+        public EmpHour()
+        {
+
+        }
         public EmpHour(int EmpID, DateTime WorkDate, int Hours) : base(EmpID)
         {
             this.WorkDate = WorkDate;

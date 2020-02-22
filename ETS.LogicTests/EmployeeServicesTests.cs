@@ -15,12 +15,12 @@ namespace ETS.Logic.Tests
     public class EmployeeServicesTests
     {
         [TestMethod()]
-        public void HrsLoggedTest()
+        public void HrsLoggedTest_InvalidHoursLoged()
         {
             // Arrange
             HoursLogged hl = new HoursLogged();
             EmpHour hrs = null;
-            Status expectedResult = Status.Successfull;
+            Status expectedResult = Status.Unsuccessfull;
 
             // Act
             Status actualResult = hl.HrsLogged(hrs);
@@ -28,6 +28,9 @@ namespace ETS.Logic.Tests
             Assert.AreEqual(expectedResult, actualResult);
 
         }
+
+       
+
     }
 
     [TestClass()]
@@ -99,18 +102,17 @@ namespace ETS.Logic.Tests
 
         [TestMethod()]
         //[ExpectedException()]
-        public void SavedEmpTest_InvalidExistingID()
+        public void SavedEmpTest_ValidTest()
         {
             // Arrange
             EmployeeServices serv = new EmployeeServices();
             Status expectedStatus = Status.Successfull;
-            Employee emp = new Employee() ;
-            int id = 1;
-            emp.EmpID = id;
+            Employee emp = new Employee();
+          
             emp.FName = "Anna";
             emp.LName = "Nguyen";
             emp.Email = "Anna.Nguyen@gmail.com";
-            emp.DOB = new DateTime(1984,12,28);
+            emp.DOB = new DateTime(1984, 12, 28);
             emp.Phone = "0297097189";
 
             // Act
@@ -118,7 +120,8 @@ namespace ETS.Logic.Tests
 
             // Assert
             Assert.AreEqual(expectedStatus, actualResult);
-
         }
+
+
     }
 }

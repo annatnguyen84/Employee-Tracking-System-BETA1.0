@@ -127,3 +127,22 @@ C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking Sys
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.View\obj\Debug\ETS.View.csproj.CopyComplete
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.View\obj\Debug\ETS.View.exe
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System Beta 1.0\ETS.View\obj\Debug\ETS.View.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.View.exe.config
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.View.exe
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.View.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.Logic.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.Data.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.Logic.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\bin\Debug\ETS.Data.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.EmployeeDetails.resources
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.Form1.resources
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.LogEmpHours.resources
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.ManageEmpDetails.resources
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.Properties.Resources.resources
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.csproj.GenerateResource.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.csproj.CopyComplete
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.exe
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.View\obj\Debug\ETS.View.pdb

@@ -18,3 +18,8 @@ C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking Sys
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Entity\obj\Debug\ETS.Entity.csprojAssemblyReference.cache
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Entity\obj\Debug\ETS.Entity.dll
 C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System V4\ETS.Entity\obj\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Entity\bin\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Entity\bin\Debug\ETS.Entity.pdb
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Entity\obj\Debug\ETS.Entity.csprojAssemblyReference.cache
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Entity\obj\Debug\ETS.Entity.dll
+C:\Users\Anna Nguyen\Desktop\Programming CalssWork\Project\Employee Tracking System BETA1.0\ETS.Entity\obj\Debug\ETS.Entity.pdb
