@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using System.Data.SqlClient; // STEP 1: Select the SQL provider
 using ETS.Entity; // use Employee
 using System.Data;
